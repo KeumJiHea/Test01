@@ -15,6 +15,8 @@ public class Quiz02 {
 		System.out.println("키\t: " + height + "cm");
 		System.out.println("아이큐\t: " + IQ);
 		System.out.println("등급\t: " + grade);
-	}
+		
 
+	}
+	
 }
